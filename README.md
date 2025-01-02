@@ -19,6 +19,7 @@ Tools and Techniques:
 
 Key Insights:
 Through this analysis, I discovered key factors influencing patient no-shows, including demographics, age, health issues, SMS reminders, and scheduled appointment times. These insights revealed patterns, such as higher no-show rates in specific age groups and for patients with certain health conditions. Based on the findings, I provided actionable recommendations, including optimizing appointment schedules, enhancing SMS reminder strategies, and tailoring communication for specific patient demographics, to help reduce no-show percentages effectively.
+[Readme.pdf](https://github.com/user-attachments/files/18290049/Readme.pdf)
 
 Skills Demonstrated:
     • Data preprocessing and cleaning
