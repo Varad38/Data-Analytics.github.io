@@ -7,7 +7,8 @@ Projects
 1. Patient Appointment No-Show Analysis
 Date: January 2025
 Description:
-In this project, I analyzed a hospital's appointment dataset to uncover patterns and factors influencing patient no-shows. Key variables such as appointment day, patient demographics, appointment day, times, and no-show status where examined. 
+In this project, I analyzed a hospital's appointment dataset to uncover patterns and factors influencing patient no-shows. Key variables such as appointment day,
+patient demographics,appointment day, times, and no-show status where examined. 
 
 Tools and Techniques:
     • MySQL:- Querying data using MySQL to extract relevant information.
