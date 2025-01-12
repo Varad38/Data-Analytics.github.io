@@ -28,7 +28,7 @@ These recommendations were aimed at helping reduce no-show percentages effective
 #### Skills Demonstrated:
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
-- Data visualization using Power BI, Matplotlib, and Seaborn
+- Data visualization using Power BI and Matplotlib.
 - Actionable insights and recommendations
 - Handling large datasets efficiently
 
