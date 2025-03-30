@@ -37,25 +37,25 @@ Thank you for visiting my portfolio!
 
 ---
 
-### 2. Sales Trend Analysis
+## 2. Sales Trend Analysis
 
 
-## Description
+### Description
 In this project, I analyzed sales trends across different seasons, customer demographics, and product categories to uncover key patterns and provide actionable recommendations for improving business performance. The analysis highlighted significant variations in sales based on seasonal trends, purchasing frequency, gender, and age brackets.
 
-## Tools and Techniques
+### Tools and Techniques
 - **Excel:** Data cleaning & preprocessing.
 - **Power BI:** Creating visualizations & dashboards.
 - **SQL:** Querying and analyzing sales data.
 - **Dataset:** Sales dataset containing customer demographics, purchasing behavior, and seasonal trends.
 
-## Key Insights
+### Key Insights
 - Analyzed sales trends across seasons, demographics, and product categories, finding Winter sales highest and Spring lowest.
 - Identified that female customers spent ~$2.8K, higher than males (~$2.6K), and seniors spent ~$3.2K, the most among age groups.
 - Recommended seasonal inventory adjustments, loyalty programs, and targeted marketing for Adults and Young Adults to boost engagement and retention.
 - Proposed bundling Accessories & Clothing and introducing senior discounts to drive higher revenue.
 
-## Skills Demonstrated
+### Skills Demonstrated
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Data visualization using Power BI
