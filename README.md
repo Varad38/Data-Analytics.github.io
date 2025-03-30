@@ -5,7 +5,6 @@ Welcome to My Data Analytics Portfolio! This portfolio highlights my journey and
 ## Projects
 
 ### 1. Patient Appointment No-Show Analysis
-**Date:** January 2025
 
 #### Description:
 In this project, I analyzed a hospital's appointment dataset to uncover patterns and factors influencing patient no-shows. Key variables such as appointment day, patient demographics, appointment times, and no-show status were examined.
@@ -32,6 +31,36 @@ These recommendations were aimed at helping reduce no-show percentages effective
 - Handling large datasets efficiently
 
 ---
+
+Thank you for visiting my portfolio!
+
+
+---
+
+### 2. Sales Trend Analysis
+
+
+## Description
+In this project, I analyzed sales trends across different seasons, customer demographics, and product categories to uncover key patterns and provide actionable recommendations for improving business performance. The analysis highlighted significant variations in sales based on seasonal trends, purchasing frequency, gender, and age brackets.
+
+## Tools and Techniques
+- **Excel:** Data cleaning & preprocessing.
+- **Power BI:** Creating visualizations & dashboards.
+- **SQL:** Querying and analyzing sales data.
+- **Dataset:** Sales dataset containing customer demographics, purchasing behavior, and seasonal trends.
+
+## Key Insights
+- Analyzed sales trends across seasons, demographics, and product categories, finding Winter sales highest and Spring lowest.
+- Identified that female customers spent ~$2.8K, higher than males (~$2.6K), and seniors spent ~$3.2K, the most among age groups.
+- Recommended seasonal inventory adjustments, loyalty programs, and targeted marketing for Adults and Young Adults to boost engagement and retention.
+- Proposed bundling Accessories & Clothing and introducing senior discounts to drive higher revenue.
+
+## Skills Demonstrated
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Data visualization using Power BI
+- Actionable insights and business recommendations
+- Handling and analyzing structured sales data
 
 Thank you for visiting my portfolio!
 
