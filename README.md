@@ -13,7 +13,6 @@ In this project, I analyzed a hospital's appointment dataset to uncover patterns
 #### Tools and Techniques:
 - **MySQL:** Querying data using MySQL to extract relevant information.
 - **Excel:** Data cleaning & preprocessing.
-- **Python:** Exploratory Data Analysis (EDA).
 - **Power BI:** Dashboard visualizations.
 - **Dataset:** Kaggle dataset with 1.1 lakh rows and 18 columns.
 
